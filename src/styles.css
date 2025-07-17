@@ -1,0 +1,53 @@
+.app-container {
+  font-family: Arial, sans-serif;
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 24px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+  text-align: center;
+}
+
+.setup-form {
+  margin-top: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+}
+
+.setup-form input[type="number"] {
+  width: 60px;
+  font-size: 1.1em;
+  margin-left: 8px;
+}
+
+.setup-form button {
+  padding: 8px 20px;
+  font-size: 1em;
+  border-radius: 6px;
+  border: none;
+  background: #1976d2;
+  color: #fff;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.setup-form button:hover {
+  background: #125ea8;
+}
+
+.clock-container {
+  margin: 32px auto 0 auto;
+  width: 100%;
+  /* Remove height and flex properties */
+  /* display: flex; align-items: center; justify-content: center; */
+}
+
+.center-svg {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 12px;
+} 
