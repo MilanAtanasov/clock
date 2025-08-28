@@ -1,6 +1,6 @@
 # Clock App
 
-A simple React application that displays a clock.
+A simple React application that simulates the CLOCK Algorithm
 
 ## Features
 - Live updating clock
