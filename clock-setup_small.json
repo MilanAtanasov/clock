@@ -1,0 +1,49 @@
+{
+  "numFrames": 8,
+  "initFrames": [
+    {
+      "addr": "3",
+      "content": ""
+    },
+    {
+      "addr": "4",
+      "content": ""
+    },
+    {
+      "addr": "5",
+      "content": ""
+    },
+    {
+      "addr": "6",
+      "content": ""
+    },
+    {
+      "addr": "7",
+      "content": ""
+    },
+    {
+      "addr": "8",
+      "content": ""
+    },
+    {
+      "addr": "1",
+      "content": ""
+    },
+    {
+      "addr": "2",
+      "content": ""
+    }
+  ],
+  "initRefBits": [
+    false,
+    true,
+    false,
+    true,
+    false,
+    true,
+    false,
+    true
+  ],
+  "initPointer": 7,
+  "pageRefs": "1 f a"
+}
